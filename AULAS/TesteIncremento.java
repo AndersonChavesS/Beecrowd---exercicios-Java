@@ -3,6 +3,7 @@ public class TesteIncremento{
         int a = 3;
         System.out.println("Valor do a = " + a++);
         //System.out.println(a); a = a +1;
+        System.out.println("Valor de a = " + a);
 
         System.out.println("Valor do a = " + ++a);
         // a= a + 1; System.out.println(a);
